@@ -1,0 +1,24 @@
+Last login: Sat Mar  2 10:13:34 on ttys002
+(base) Velmarinis-MacBook-Pro:~ vasquezvel$ cd Desktop
+(base) Velmarinis-MacBook-Pro:Desktop vasquezvel$ ls
+GitHub			PDIviz123.py		Visual Studio Code.app
+GitLab			PandasClass1		mainW.py
+Important files  	PythonClass2		newgit
+Mendeley files 		PythonClass3		python-challenge
+OpenComet_-2.jar	Python_Classes		screen shots 
+PDB FILES		RiceHou2019-Bootcamp 	~$AB42FoldXall.xlsx
+(base) Velmarinis-MacBook-Pro:Desktop vasquezvel$ cd python-challenge
+(base) Velmarinis-MacBook-Pro:python-challenge vasquezvel$ cd PyBank
+(base) Velmarinis-MacBook-Pro:PyBank vasquezvel$ pyhton main.py
+-bash: pyhton: command not found
+(base) Velmarinis-MacBook-Pro:PyBank vasquezvel$ python main.py
+Financial Analyst
+---------------------------
+Total Months: 86
+Total: $ 38382578
+Average Change: $-2315.12
+Greatest increase in Profits: Jan-2012 ($1926159)
+Greatest decrease in Profits: Aug-2013 ($-2196167)
+(base) Velmarinis-MacBook-Pro:PyBank vasquezvel$ 
+
+
